@@ -182,7 +182,7 @@
         },
       {
       "key": "影探",
-      "name": "📀影视 |影探",
+      "name": "📳APP |影探",
       "type": 3,
 // 可用"api": "./lib/drpy2.min.js",
 // 可用"ext": "./lib/影探[V2].js"
@@ -194,7 +194,7 @@
      }, 
      {
       "key": "酷影4K",
-      "name": "📀影视 |酷影4K",
+      "name": "📳APP |酷影4K",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -211,9 +211,29 @@
         "综艺"
       ]
     },
+       {
+      "key": "ky",
+      "name": "📳APP|酷影",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://cms.realdou.cn/api.php/app/"
+    },
+    {
+      "key": "bl",
+      "name": "📳APP|布雷",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://117.175.212.198:8088/api.php/app/"
+    },
     {
       "key": "北极狐",
-      "name": "📀影视  |北极狐",
+      "name": "📳APP |北极狐",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,

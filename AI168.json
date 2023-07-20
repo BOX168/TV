@@ -71,6 +71,16 @@
       //"ext": "./lib/优酷.js"
       "ext": ".lib/youku.js"
     },
+     {
+      "key": "bili",
+      "name": "官源|B站",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "./lib/bili.json"
+    },
     {
       "key": "drpy_js_童趣",
       "name": "少儿 | 童趣[js]",

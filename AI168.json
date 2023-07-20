@@ -68,7 +68,7 @@
       "name": "官源 | 优酷[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-// "ext":  "./lib/优酷.js"
+// 可用"ext":  "./lib/优酷.js"
       "ext": ".lib/youku.js"
     },
      {
@@ -184,8 +184,8 @@
       "key": "影探",
       "name": "📀影视 |影探",
       "type": 3,
-// "api": "./lib/drpy2.min.js",
-// "ext": "./lib/影探[V2].js"
+// 可用"api": "./lib/drpy2.min.js",
+// 可用"ext": "./lib/影探[V2].js"
      "api":"csp_AppYsV2",
      "searchable":1,
      "quickSearch":1,

@@ -68,7 +68,7 @@
       "name": "官源 | 优酷[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-//"ext": "./lib/优酷.js"
+// "ext":  "./lib/优酷.js"
       "ext": ".lib/youku.js"
     },
      {

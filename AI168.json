@@ -69,7 +69,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       //"ext": "./lib/优酷.js"
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
+      "ext": ".lib/youku.js"
     },
     {
       "key": "drpy_js_童趣",

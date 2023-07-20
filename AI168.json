@@ -79,7 +79,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./lib/bili.json"
+      "ext": "./lib/bilibili_2.json"
     },
     {
       "key": "drpy_js_童趣",

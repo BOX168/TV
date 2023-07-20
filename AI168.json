@@ -73,7 +73,7 @@
     },
      {
       "key": "bili",
-      "name": "官源|B站",
+      "name": "官源|B站[js]",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -2203,10 +2203,6 @@
           "User-Agent": "Mozilla/5.0"
         }
       },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
     {
       "name": "17-PM",
       "type": 1,

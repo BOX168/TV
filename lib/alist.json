@@ -5,9 +5,18 @@
       "name": "网络收集",
       "server": "http://123.60.188.109:5678"
     },
+      {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
      {
       "name": "小雅的Alist",
       "server": "http://alist.xiaoya.pro",
+      "type": "alist"
+    },
+     {
+      "name": "🌊七米蓝",
+      "server": "https://al.chirmyram.com",
       "type": "alist"
     },
     {
@@ -51,11 +60,7 @@
       "server": "https://alist.youte.ml",
       "type": "alist"
     },
-    {
-      "name": "🌊七米蓝",
-      "server": "https://al.chirmyram.com",
-      "type": "alist"
-    },
+   
     {
       "name": "🌴非盘",
       "server": "http://www.feifwp.top",

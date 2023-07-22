@@ -1917,38 +1917,30 @@
       "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
     },
     {
-      "name": "江湖💠",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "1-左岸",
-      "type": 1,
-      "url": "https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
+  "name": "银河解析",
+  "type": 1,
+  "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+  "ext": {
+    "flag": [
+      "qiyi",
+      "qq",
+      "腾讯",
+      "letv",
+      "sohu",
+      "youku",
+      "mgtv",
+      "bilibili",
+      "wasu",
+      "xigua",
+      "1905"
+    ]
+  }
+},
+{
+  "name": "左岸解析",
+  "type": 1,
+  "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+},
     {
       "name": "2-parwix稳定",
       "type": 0,

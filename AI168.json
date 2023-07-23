@@ -794,9 +794,7 @@
      "name": "💾网盘挂载",
      "type": 3,
      "api":"./lib/alist.min.js",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1,
+     "changeable":0,
      "ext": "./lib/alist.json"
     },
     

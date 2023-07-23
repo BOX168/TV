@@ -77,8 +77,8 @@
       "name": "官源 | 优酷[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-//可用 "ext":  "./lib/优酷.js"
-      "ext": ".lib/youku.js"
+      "ext":  "./lib/优酷.js"
+//可用 "ext": ".lib/youku.js"
     },
      {
       "key": "bili",
@@ -793,7 +793,7 @@
      "key": "Alist",
      "name": "💾网盘挂载",
      "type": 3,
-     "api": "csp_AList",
+     "api":"./lib/alist.min.js",
      "searchable": 1,
      "quickSearch": 0,
      "filterable": 1,

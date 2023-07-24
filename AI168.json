@@ -395,6 +395,16 @@
       "ext": "./lib/爱看.js"
     },
     {
+      "key": "drpy_js_ikanbot2",
+      "name": "影视 | 爱看机器人[js]",
+      "type": 3,
+      "api": "https://gitee.com/AI168/tvbox/raw/master/Lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/AI168/tvbox/raw/master/Lib/ikanbot2.js"
+    },
+    {
       "key": "csp_AppTT",
       "name": "影视 | 图图",
       "type": 3,

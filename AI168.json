@@ -1999,13 +1999,8 @@
       "type": 2,
       "url": "Parallel"
     },
- {
-      "name": "冰豆",
-      "type": 1,
-      "url": "https://api.qianqi.net/vip/?url="
-    },
-
-   {
+     { "name": "255解析","type": 1, "url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
+    {
     "name": "江湖解析",
     "type": 1,
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",

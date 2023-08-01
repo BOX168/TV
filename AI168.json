@@ -830,7 +830,17 @@
       "filterable": 0,
       "ext": "https://gitee.com/wlcmc/tv/raw/master/tok.txt"
     },
-        {
+    {
+      "key": "csp_XYQHiker4klg",
+      "name": "🧲磁力|原盘4k",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/中国蓝光网.json"
+    },
+    {
       "key": "drpy_js_磁力熊[磁]",
       "name": "🧲磁力 | 磁力熊[js]",
       "type": 3,
@@ -838,7 +848,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./lib/磁力熊[磁].js"
+      "ext": "./lib/磁力熊.js"
     },
     {
   "key": "New6v",

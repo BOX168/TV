@@ -30,6 +30,16 @@
       "filterable": 0,
       "ext": "./lib/jianpian.js"
     },
+     {
+  "key": "csp_JianPian",
+  "name": "🏆影视 |荐片",
+  "type": 3,
+  "api": "csp_JianPian",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
     {
       "key": "drpy_js_酷云77",
       "name": "🏆影视 | 酷云77[js]",
@@ -919,6 +929,47 @@
   "quickSearch": 1,
   "filterable": 1
 },
+    {
+  "key": "csp_XYQHiker_BT天堂",
+  "name": "🧲✈️BT天堂(XYQH)",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/AI168/tvbox/raw/master/Lib/BT天堂.json"
+},
+{
+  "key": "csp_XYQHiker_极影网",
+  "name": "🧲极影网(XYQH)",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/AI168/tvbox/raw/master/Lib/极影网.json"
+},
+{
+  "key": "csp_BLSGod",
+  "name": "🧲80S影视",
+  "type": 3,
+  "api": "csp_BLSGod",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
+  "key": "csp_Xunlei8",
+  "name": "🧲迅雷吧",
+  "type": 3,
+  "api": "csp_Xunlei8",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+
    {
       "key": "drpy_js_我的哔哩",
       "name": "弹幕 | 哔哩合集[js]",
